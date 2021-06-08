@@ -1,0 +1,43 @@
+d:\Alumno\Desktop\Preguntados\Preguntados\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+d:\Alumno\Desktop\Preguntados\Preguntados\obj\x86\Debug\WindowsApplication1.Resources.resources
+d:\Alumno\Desktop\Preguntados\Preguntados\obj\x86\Debug\Preguntados.vbproj.GenerateResource.Cache
+d:\Alumno\Desktop\Preguntados\Preguntados\bin\Debug\Preguntados.exe
+d:\Alumno\Desktop\Preguntados\Preguntados\bin\Debug\Preguntados.pdb
+d:\Alumno\Desktop\Preguntados\Preguntados\bin\Debug\Preguntados.xml
+d:\Alumno\Desktop\Preguntados\Preguntados\obj\x86\Debug\Preguntados.exe
+d:\Alumno\Desktop\Preguntados\Preguntados\obj\x86\Debug\Preguntados.xml
+d:\Alumno\Desktop\Preguntados\Preguntados\obj\x86\Debug\Preguntados.pdb
+d:\Alumno\Desktop\Preguntados 12-09\Preguntados\obj\x86\Debug\Preguntados.exe
+d:\Alumno\Desktop\Preguntados 12-09\Preguntados\obj\x86\Debug\Preguntados.xml
+d:\Alumno\Desktop\Preguntados 12-09\Preguntados\obj\x86\Debug\Preguntados.pdb
+d:\Alumno\Desktop\Preguntados 12-09\Preguntados\bin\Debug\Preguntados.exe
+d:\Alumno\Desktop\Preguntados 12-09\Preguntados\bin\Debug\Preguntados.pdb
+d:\Alumno\Desktop\Preguntados 12-09\Preguntados\bin\Debug\Preguntados.xml
+d:\Alumno\Desktop\Preguntados 12-09\Preguntados\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+d:\Alumno\Desktop\Preguntados 12-09\Preguntados\obj\x86\Debug\WindowsApplication1.Resources.resources
+d:\Alumno\Desktop\Preguntados 12-09\Preguntados\obj\x86\Debug\Preguntados.vbproj.GenerateResource.Cache
+C:\Users\Franco\Desktop\Preguntados 17-09\Preguntados\obj\x86\Debug\Preguntados.exe
+C:\Users\Franco\Desktop\Preguntados 17-09\Preguntados\obj\x86\Debug\Preguntados.xml
+C:\Users\Franco\Desktop\Preguntados 17-09\Preguntados\obj\x86\Debug\Preguntados.pdb
+C:\Users\Franco\Desktop\Preguntados 17-09\Preguntados\bin\Debug\Preguntados.exe
+C:\Users\Franco\Desktop\Preguntados 17-09\Preguntados\bin\Debug\Preguntados.pdb
+C:\Users\Franco\Desktop\Preguntados 17-09\Preguntados\bin\Debug\Preguntados.xml
+C:\Users\Franco\Desktop\Preguntados 17-09\Preguntados\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\Preguntados 17-09\Preguntados\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+C:\Users\Franco\Desktop\Preguntados 17-09\Preguntados\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Franco\Desktop\Preguntados 17-09\Preguntados\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco\Desktop\Preguntados 17-09\Preguntados\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco\Desktop\Preguntados 17-09\Preguntados\obj\x86\Debug\WindowsApplication1.frmSeleccionPesonaje.resources
+C:\Users\Franco\Desktop\Preguntados 17-09\Preguntados\obj\x86\Debug\WindowsApplication1.frmPortada.resources
+F:\Usuarios\Franco\Google Drive\Laboratorio de programación II\Preguntados 26-09\Preguntados\bin\Debug\Preguntados.exe
+F:\Usuarios\Franco\Google Drive\Laboratorio de programación II\Preguntados 26-09\Preguntados\bin\Debug\Preguntados.pdb
+F:\Usuarios\Franco\Google Drive\Laboratorio de programación II\Preguntados 26-09\Preguntados\bin\Debug\Preguntados.xml
+F:\Usuarios\Franco\Google Drive\Laboratorio de programación II\Preguntados 26-09\Preguntados\obj\x86\Debug\WindowsApplication1.frmInicio.resources
+F:\Usuarios\Franco\Google Drive\Laboratorio de programación II\Preguntados 26-09\Preguntados\obj\x86\Debug\WindowsApplication1.frmPortada.resources
+F:\Usuarios\Franco\Google Drive\Laboratorio de programación II\Preguntados 26-09\Preguntados\obj\x86\Debug\WindowsApplication1.frmSeleccionPesonaje.resources
+F:\Usuarios\Franco\Google Drive\Laboratorio de programación II\Preguntados 26-09\Preguntados\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Usuarios\Franco\Google Drive\Laboratorio de programación II\Preguntados 26-09\Preguntados\obj\x86\Debug\Preguntados.vbproj.GenerateResource.cache
+F:\Usuarios\Franco\Google Drive\Laboratorio de programación II\Preguntados 26-09\Preguntados\obj\x86\Debug\Preguntados.vbproj.CoreCompileInputs.cache
+F:\Usuarios\Franco\Google Drive\Laboratorio de programación II\Preguntados 26-09\Preguntados\obj\x86\Debug\Preguntados.exe
+F:\Usuarios\Franco\Google Drive\Laboratorio de programación II\Preguntados 26-09\Preguntados\obj\x86\Debug\Preguntados.xml
+F:\Usuarios\Franco\Google Drive\Laboratorio de programación II\Preguntados 26-09\Preguntados\obj\x86\Debug\Preguntados.pdb
